@@ -1,5 +1,5 @@
 # ExtensionMethods
-A set of extension methods tested by XUnit .
+A set of extension methods tested by **XUnit** .
 
 ### **Methods** :
 
