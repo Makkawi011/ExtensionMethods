@@ -22,6 +22,8 @@ IEnumerable<int> OneTowThreeOneTowThree =
 
 - #### ``` Extend ```
 repeate Enumerables in Source and put them in new Sequance of Enumerables of length you specify
+For Example :
+
 input:
 {
     { 1, 2, 3 }
@@ -52,7 +54,8 @@ var result = source
 
 - #### ``` Distribute ```
  Distribute all items in the ItemToBeDistributed Collection to all collections in the source
- 
+ For Example :
+
 input:
 SourceCollection
 {
